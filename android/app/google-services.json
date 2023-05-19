@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866920879880",
+    "project_id": "notifi-example",
+    "storage_bucket": "notifi-example.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866920879880:android:6e0d84b2dc66a8e1163ebd",
+        "android_client_info": {
+          "package_name": "com.example.flutter_fire_message"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866920879880-v5nhqpivqv8k8otth771u41f2s7asd1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhjoRtQph6SahiMqsPOkPKJo0bsEa0x7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866920879880-v5nhqpivqv8k8otth771u41f2s7asd1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
